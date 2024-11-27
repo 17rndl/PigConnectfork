@@ -1,10 +1,10 @@
 # Node.js dependencies
-# node_modules/
-# package-lock.json
+*node_modules/
+*package-lock.json
 
 # Python dependencies
-myenv/
-__pycache__/
+*myenv/
+*__pycache__/
 *.pyc
 *.pyo
 *.pyd
@@ -23,4 +23,4 @@ __pycache__/
 *.swp
 *.swo
 *.DS_Store
-.env
+*.env
