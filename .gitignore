@@ -1,0 +1,26 @@
+# Node.js dependencies
+node_modules/
+package-lock.json
+
+# Python dependencies
+myenv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+*.dist-info/
+
+# PHP dependencies
+vendor/
+composer.lock
+
+# Other dependencies and build artifacts
+*.log
+*.tmp
+*.cache
+*.bak
+*.swp
+*.swo
+*.DS_Store
+.env
