@@ -1,6 +1,6 @@
 # Node.js dependencies
-node_modules/
-package-lock.json
+# node_modules/
+# package-lock.json
 
 # Python dependencies
 myenv/
@@ -12,8 +12,8 @@ __pycache__/
 *.dist-info/
 
 # PHP dependencies
-vendor/
-composer.lock
+# vendor/
+# composer.phar
 
 # Other dependencies and build artifacts
 *.log
